@@ -1,0 +1,14 @@
+{"plastics": [
+  {
+    "code": ["PET", "PETE"],
+    "name": "Polyethylenterephthalat",
+    "number": 1,
+    "description": "Polyesterfasern, Folien, Flaschen für Lebensmittel und andere Flüssigkeiten, Lebensmittelverpackungen."
+  },
+  {
+    "code": "PVC"
+  },
+  {
+    "code": "PP"
+  }
+]}
